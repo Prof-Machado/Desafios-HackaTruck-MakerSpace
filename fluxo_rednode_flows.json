@@ -1,0 +1,22 @@
+[
+    {
+        "id": "23b76ebc379326e2",
+        "type": "split",
+        "z": "0a2710b591ce9fa1",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "property": "payload",
+        "x": 630,
+        "y": 180,
+        "wires": [
+            [
+                "6ca9f71314f9ab86"
+            ]
+        ]
+    }
+]
