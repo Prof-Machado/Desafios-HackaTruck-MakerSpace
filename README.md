@@ -1,5 +1,18 @@
+---
 # Desafios-HackaTruck-MakerSpace
-Desafios desenvolvidos no HackaTruck MakerSpace UFPA 2026 - Programação Swift
+>  Desafios desenvolvidos no HackaTruck MakerSpace UFPA 2026 - Programação Swift
+
+<br>
+<br>
+
+<!-- ===================================================== -->
+<!-- HEADER ANIMADO                                        -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00AEEF&center=true&vCenter=true&width=800&lines=HackaTruck+MakerSpace;Desenvolvimento+iOS+com+Swift;Inovação+Tecnológica+UFPA"/>
+</p>
+
 
 <!-- ===================================================== -->
 <!-- IMAGEM PRINCIPAL (MENOR E ARREDONDADA)                -->
@@ -43,8 +56,9 @@ Desafios desenvolvidos no HackaTruck MakerSpace UFPA 2026 - Programação Swift
 <!-- PREVIEW DO SITE (CLICÁVEL)                            -->
 <!-- ===================================================== -->
 <p align="center">
-  <a href="https://hackatruck.com.br/" target="_blank"
+  <a  href="https://hackatruck.com.br/" target="_blank"
      style="padding:10px 20px; border-radius:8px; border:1px solid #ccc; text-decoration:none;">
     https://hackatruck.com.br/
   </a>
 </p>
+
