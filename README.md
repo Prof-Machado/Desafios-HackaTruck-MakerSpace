@@ -70,7 +70,7 @@
 ```Python
 //
 //  desafio00App.swift
-//  desafio01
+//  desafio00
 //
 //  Created by Turma02-10 on 10/03/26.
 //
@@ -78,7 +78,7 @@
 import SwiftUI
 
 @main
-struct desafio01App: App {
+struct desafio00App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
@@ -199,45 +199,78 @@ Evolução contínua em desenvolvimento iOS
 
 <div align="center">
 
-<table width="70%">
-<tr>
-<td style="padding: 20px;" align="center">
 
-### Infraestrutura
+### Equipamentos e Infraestrutura Disponibilizados
 
 <br>
 
-MacBook Pro · iPhone SE (3ª geração) · Impressoras 3D (Sethi S3 / Sethi Farm)  
+MacBook Pro  ·  iPhone SE (3ª geração) · Impressoras 3D (Sethi S3 / Sethi Farm)  
 Arduino · Raspberry Pi · NodeMCU · Sensores (GPS, umidade, cardíaco, BMP)
 
-</td>
-</tr>
-</table>
+
 
 </div>
 
 <hr>
 
-## Progresso das Aulas 
+## Progresso Geral
 
-| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 |
-|----|----|----|----|----|----|----|----|
-| [x] | [x] | [x] | [x] | [x] | [x] | [x] | [x] |
+<table align="center" width="100%">
+<tr>
 
-| 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|----|----|----|----|----|----|----|----|
-| [x] | [x] | [x] | [x] | [x] | [x] | [x] | [x] |
+<td valign="top" width="50%" align="center">
 
-<hr>
+<b>Progresso das Aulas</b>
+<br>
 
-## Progresso dos Desafios
+<table align="center">
+<tr>
+<td>01</td><td>02</td><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td>
+</tr>
+<tr>
+<td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+</tr>
+</table>
 
-| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
-|----|----|----|----|----|----|----|----|----|----|
-| [x] | [ ] | [x] | [ ] | [x] | [ ] | [x] | [ ] | [x] | [ ] |
+<br>
 
-| 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|----|----|----|----|----|----|----|----|----|----|
-| [x] | [ ] | [x] | [ ] | [x] | [ ] | [x] | [ ] | [ ] | [ ] |
+<table align="center">
+<tr>
+<td>09</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td>
+</tr>
+<tr>
+<td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td>
+</tr>
+</table>
 
-<hr>
+</td>
+
+<td valign="top" width="50%" align="center">
+
+<b>Progresso dos Desafios</b>
+<br>
+
+<table align="center">
+<tr>
+<td>01</td><td>02</td><td>03</td><td>04</td><td>05</td><td>06</td><td>07</td><td>08</td><td>09</td><td>10</td>
+</tr>
+<tr>
+<td>✅</td><td>⬜</td><td>✅</td><td>⬜</td><td>✅</td><td>⬜</td><td>✅</td><td>⬜</td><td>✅</td><td>✅</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+</tr>
+<tr>
+<td>✅</td><td>⬜</td><td>✅</td><td>⬜</td><td>✅</td><td>⬜</td><td>✅</td><td>⬜</td><td>✅</td><td>✅</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
