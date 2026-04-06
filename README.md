@@ -22,6 +22,7 @@
        style="border-radius: 30px;"/>
 </p>
 
+<br>
 <!-- ===================================================== -->
 <!-- TÍTULO                                                -->
 <!-- ===================================================== -->
@@ -64,6 +65,29 @@
 
 <hr>
 
+<div align="center">
+
+### Equipe de instrutores HackaTruck
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQG4HvJHTgq2cQ/profile-displayphoto-scale_400_400/B4DZvg2nLuJMAg-/0/1769003973146?e=2147483647&v=beta&t=xjlbIeORwGLoJVhQa98Z6UVzH8ipy7XedGjGgTlq78E" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQEMu98H99938g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692196748558?e=2147483647&v=beta&t=emY1cQlAPyPnU7XkUCPK19wJX1bzco876jQU-OfmbU8" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQHHZi_WZJs7qg/profile-displayphoto-shrink_200_200/B4DZda3XisHAAY-/0/1749576154657?e=2147483647&v=beta&t=rRl3Dszm4a8_9_iRBl3gXvV83R422wjQQ7GKJUvecdk" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+</div>
+
+<hr>
 <hr>
 
 
