@@ -111,111 +111,28 @@ struct desafio00App: App {
 }
 ```
 <hr>
-
-<div align="center">
-
-<table width="85%">
-<tr>
-
-<td width="50%" valign="top" style="padding: 25px;">
-
-<div align="center">
-
-### Sobre
-
-</div>
-
-<br>
-
-> Conteúdo base fornecido pelo programa  
-> **Implementações e soluções desenvolvidas por mim**
-
-<br>
-
-Aplicação prática de tecnologia  
-Resolução de problemas reais  
-Evolução contínua em desenvolvimento iOS  
-
-</td>
-
-<td width="50%" valign="top" style="padding: 25px;">
-
-<div align="center">
-
-### Estrutura
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Challenge Based Learning (CBL)**
-
-</div>
-
-<br>
-
-- Problemas reais  
-- Desenvolvimento de soluções  
-- Construção de protótipos  
-- Apresentação (pitch)  
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
 <hr>
 
-<div align="center">
+## Programas
 
-<table width="85%">
-<tr>
-
-<td width="50%" valign="top" style="padding: 25px;">
-
-<div align="center">
-
-### Tecnologias
-
-</div>
-
-<br>
-
-- Swift / SwiftUI  
-- Cloud Computing  
-- Banco de Dados  
-- IoT  
-- Inteligência Artificial  
-- Visão Computacional (YOLO)  
-- Pitch  
-
-</td>
-
-<td width="50%" valign="top" style="padding: 25px;">
-
-<div align="center">
-
-### Competências
-
-</div>
-
-<br>
-
-- Colaboração  
-- Comunicação  
-- Resolução de conflitos  
-- Gestão do tempo  
-- Organização  
-- Responsabilidade compartilhada  
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <!-- Swift -->
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="45" height="45" />
+  <!-- SwiftUI (usando ícone do Skillicons, não oficial mas representativo) -->
+  <img src="https://skillicons.dev/icons?i=swiftui" alt="SwiftUI" width="50" height="50" />
+  <!-- Cloud Computing -->
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,azure&theme=light" alt="Cloud Computing" width="150" height="150" />
+  <!-- Banco de Dados -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=light" alt="Banco de Dados" width="150" height="150" />
+  <!-- IoT (representado como sensors) -->
+  <img src="https://skillicons.dev/icons?i=iot&theme=light" alt="IoT" width="50" height="50" />
+  <!-- Inteligência Artificial -->
+  <img src="https://skillicons.dev/icons?i=openai,chatgpt,ai&theme=light" alt="Inteligência Artificial" width="150" height="150" />
+  <!-- Visão Computacional (YOLO) -->
+  <img src="https://skillicons.dev/icons?i=yolo&theme=light" alt="Visão Computacional (YOLO)" width="50" height="50" />
+  <!-- Pitch (represented as presentation) -->
+  <img src="https://skillicons.dev/icons?i=pitch&theme=light" alt="Pitch" width="50" height="50" />
+</p>
 
 </div>
 
