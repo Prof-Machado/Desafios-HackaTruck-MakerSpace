@@ -3,7 +3,6 @@
 >  Desafios desenvolvidos no HackaTruck MakerSpace UFPA 2026 - Programação Swift
 
 <br>
-<br>
 
 <!-- ===================================================== -->
 <!-- HEADER ANIMADO                                        -->
@@ -27,6 +26,7 @@
 <!-- TÍTULO                                                -->
 <!-- ===================================================== -->
 <h1 align="center">
+  <span style="color:#00AEEF;">Espaço</span> 
   <span style="color:#00AEEF;">HackaTruck</span> 
   <span style="color:#F7941D;">MakerSpace</span>
 </h1>
@@ -62,3 +62,160 @@
   </a>
 </p>
 
+<hr>
+
+<hr>
+
+<div align="center">
+
+<table width="85%">
+<tr>
+
+<td width="50%" valign="top" style="padding: 25px;">
+
+<div align="center">
+
+### Sobre
+
+</div>
+
+<br>
+
+> Conteúdo base fornecido pelo programa  
+> **Implementações e soluções desenvolvidas por mim**
+
+<br>
+
+Aplicação prática de tecnologia  
+Resolução de problemas reais  
+Evolução contínua em desenvolvimento iOS  
+
+</td>
+
+<td width="50%" valign="top" style="padding: 25px;">
+
+<div align="center">
+
+### Estrutura
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Challenge Based Learning (CBL)**
+
+</div>
+
+<br>
+
+- Problemas reais  
+- Desenvolvimento de soluções  
+- Construção de protótipos  
+- Apresentação (pitch)  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<table width="85%">
+<tr>
+
+<td width="50%" valign="top" style="padding: 25px;">
+
+<div align="center">
+
+### Tecnologias
+
+</div>
+
+<br>
+
+- Swift / SwiftUI  
+- Cloud Computing  
+- Banco de Dados  
+- IoT  
+- Inteligência Artificial  
+- Visão Computacional (YOLO)  
+- Pitch  
+
+</td>
+
+<td width="50%" valign="top" style="padding: 25px;">
+
+<div align="center">
+
+### Competências
+
+</div>
+
+<br>
+
+- Colaboração  
+- Comunicação  
+- Resolução de conflitos  
+- Gestão do tempo  
+- Organização  
+- Responsabilidade compartilhada  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+<table width="70%">
+<tr>
+<td style="padding: 20px;" align="center">
+
+### Infraestrutura
+
+<br>
+
+MacBook Pro · iPhone SE (3ª geração) · Impressoras 3D (Sethi S3 / Sethi Farm)  
+Arduino · Raspberry Pi · NodeMCU · Sensores (GPS, umidade, cardíaco, BMP)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr>
+
+## Progresso das Aulas 
+
+| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 |
+|----|----|----|----|----|----|----|----|
+| [x] | [x] | [x] | [x] | [x] | [x] | [x] | [x] |
+
+| 09 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|----|----|----|----|----|----|----|----|
+| [x] | [x] | [x] | [x] | [x] | [x] | [x] | [x] |
+
+<hr>
+
+## Progresso dos Desafios
+
+| 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 |
+|----|----|----|----|----|----|----|----|----|----|
+| [x] | [ ] | [x] | [ ] | [x] | [ ] | [x] | [ ] | [x] | [ ] |
+
+| 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|----|----|----|----|----|----|----|----|----|----|
+| [x] | [ ] | [x] | [ ] | [x] | [ ] | [x] | [ ] | [ ] | [ ] |
+
+<hr>
