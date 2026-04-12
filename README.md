@@ -18,7 +18,7 @@
 <!-- IMAGEM PRINCIPAL (MENOR E ARREDONDADA)                -->
 <!-- ===================================================== -->
 <p align="center">
-  <img src="https://scontent.fbel5-1.fna.fbcdn.net/v/t39.30808-6/299196280_489455433182087_2828140254828969927_n.png?_nc_cat=109&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=jK8iWIcbNAsQ7kNvwHL_swp&_nc_oc=Ado0fMKiJPZ2Nm1CmIh_t4KeDc4Zs2AHM06M4UNlC4SinZ1MIBHcPZjH-VOj-sKm2nE&_nc_zt=23&_nc_ht=scontent.fbel5-1.fna&_nc_gid=s9LEW38w9ONTFxlooB7v3A&_nc_ss=7a389&oh=00_Af1EIyGexjlx_tLgXCrbGsm-apJQ798_Kq0T4ly-xSdesQ&oe=69D44AE6"
+  <img src="https://lms.hackatruck.com.br/pluginfile.php/1/core_admin/logo/0x200/1760550868/logo-topo.png"
        width="50%"
        style="border-radius: 30px;"/>
 </p>
